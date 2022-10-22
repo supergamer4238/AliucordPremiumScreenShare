@@ -41,8 +41,8 @@ subprojects {
     // Fill out with your info
     aliucord {
         author("MekongRiver#1619", 123456789L)
-        updateUrl.set("https://raw.githubusercontent.com/supergamer4238/AliucordPremiumScreenShare/builds/updater.json")
-        buildUrl.set("https://raw.githubusercontent.com/supergamer4238/AliucordPremiumScreenShare/builds/%s.zip")
+        updateUrl.set("https://raw.githubusercontent.com/supergamer4238/ians-aliucord-plugins/builds/updater.json")
+        buildUrl.set("https://raw.githubusercontent.com/supergamer4238/ians-aliucord-plugins/builds/%s.zip")
     }
 
     android {
