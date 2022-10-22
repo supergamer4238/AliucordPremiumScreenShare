@@ -40,9 +40,9 @@ subprojects {
 
     // Fill out with your info
     aliucord {
-        author("DISCORD USERNAME", 123456789L)
-        updateUrl.set("https://raw.githubusercontent.com/USERNAME/REPONAME/builds/updater.json")
-        buildUrl.set("https://raw.githubusercontent.com/USERNAME/REPONAME/builds/%s.zip")
+        author("MekongRiver#1619", 123456789L)
+        updateUrl.set("https://raw.githubusercontent.com/supergamer4238/AliucordPremiumScreenShare/builds/updater.json")
+        buildUrl.set("https://raw.githubusercontent.com/supergamer4238/AliucordPremiumScreenShare/builds/%s.zip")
     }
 
     android {
